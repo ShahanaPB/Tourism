@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+form{
+    height:75%;
+    width:30%;
+    margin-top:8%;
+    margin-left: 33%;
+    padding:3%;
+    border:solid black 2px;
+}

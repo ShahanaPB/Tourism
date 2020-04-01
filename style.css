@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-size: cover;
+}
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+    color:white;
+    text-align: center;
+    margin:auto;
+    padding-top:80px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.paragraph{
+    text-align: center;
+    margin-top:-130px;
+    margin-left:25px;
+    margin-right:25px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top:200px;
+    color: white;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer h6{
+    color:white;
+}
+footer{
+    margin-top:70px;
+    margin-left:500px;
+    font-family: 'Times New Roman', Times, serif;
+}
