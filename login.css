@@ -4,8 +4,11 @@ body{
 form{
     height:75%;
     width:30%;
-    margin-top:8%;
+    margin-top:7%;
     margin-left: 33%;
     padding:3%;
     border:solid black 2px;
+}
+label{
+    font-weight: bold;
 }
